@@ -1,0 +1,60 @@
+<!-- el xml tiene que estar bien formado -->
+<pages>
+	<link>
+	<title>Incomunicación</title>
+	<url>pagina.php?idpagina=1</url>
+	</link>
+	<link>
+	<title>Dame la oportunidad</title>
+	<url>pagina.php?idpagina=2</url>
+	</link>
+	<link>
+	<title>Los rockeros van al infierno</title>
+	<url>pagina.php?idpagina=3</url>
+	</link>
+	<link>
+	<title>Son como hormigas</title>
+	<url>pagina.php?idpagina=4</url>
+	</link>
+	<link>
+	<title>Resistiré</title>
+	<url>pagina.php?idpagina=5</url>
+	</link>
+	<link>
+	<title>Concierto para ellos</title>
+	<url>pagina.php?idpagina=6</url>
+	</link>
+	<link>
+	<title>El barón vuela sobre Inglaterra</title>
+	<url>pagina.php?idpagina=7</url>
+	</link>
+	<link>
+	<title>Invulnerable</title>
+	<url>pagina.php?idpagina=8</url>
+	</link>
+	<link>
+	<title>Siempre estás allí</title>
+	<url>pagina.php?idpagina=9</url>
+	</link>
+	<link>
+	<title>Dinero</title>
+	<url>pagina.php?idpagina=10</url>
+	</link>
+	<link>
+	<title>Va a estallar el obús</title>
+	<url>pagina.php?idpagina=11</url>
+	</link>
+	<link>
+	<title>Dolores se llamaba Lola</title>
+	<url>pagina.php?idpagina=12</url>
+	</link>
+	<link>
+	<title>Pensando en ti</title>
+	<url>pagina.php?idpagina=13</url>
+	</link>
+	<link>
+	<title>No puedo dejar el rock</title>
+	<url>pagina.php?idpagina=14</url>
+	</link>
+</pages>
+<!-- las url podrían ser absolutas https:// -->
